@@ -1,2 +1,8 @@
-# Cahalan_A_IntrotoPython
-MMED-1054
+# All About Learning Programming with Python
+Reviewing github and learning a bit of Python stuff
+
+## Credits
+Me
+
+## License
+MIT
